@@ -16,8 +16,7 @@ p {
 
    font-size: larger; 
    padding: 10px;
-
-}
+ }
 #blog {
 
     border-top: 1px dotted;
@@ -35,3 +34,4 @@ h2 {
 li {
     border: indigo;
 }
+
