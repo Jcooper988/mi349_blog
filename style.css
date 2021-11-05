@@ -11,6 +11,33 @@ h1 {
     border-color: indigo;
 
 }
+article{
+    padding:20px; 
+    margin: 20px;
+}
+article:nth-of-type(1) {
+   flex: 1;
+}
+article:nth-of-type(2) {
+    flex:3; 
+
+}
+article:nth-of-type(3) {
+    flex:1; 
+
+}
+section{
+
+    display:flex; 
+}
+.contain{
+
+    background:aqua; 
+    height: 30px;
+    width: 20px;
+    float:left;
+    margin-right: 15px;
+}
 
 p {
 
