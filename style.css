@@ -67,3 +67,9 @@ li {
     border: indigo;
 }
 
+@media (max-width: 400px) {
+    #a1{
+        background-color: green;
+    }
+}
+
